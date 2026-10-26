@@ -1,0 +1,36 @@
+{
+    "name": "برنامج مدكر",
+    "short_name": "برنامج مدكر",
+    "start_url": ".",
+    "display": "browser",
+    "background_color": "#FFFFFF",
+    "theme_color": "#4F3955",
+    "description": "برنامج مدكر: دورات قصيرة في تفسير القرآن الكريم، إحدى مبادرات جمعية البرهان.",
+    "lang": "ar",
+    "dir": "rtl",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
